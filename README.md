@@ -10,3 +10,6 @@ Here are the conclusions that I have found :-
 • Since majority of students do not attend demo they are not aware of the classes provided. This leads to less people looking into considering aboit taking admission
 
 • At the end offline classes should be considered so that the students who are not comfortable with online classes can attend offline institutes
+
+
+----> Along with the files I have uploaded PDF file of the jupyter notebook for easy viewing
